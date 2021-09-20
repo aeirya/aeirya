@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: julia, rust, japanese
 - 📫 How to reach me: aeirya@gmail.com
 - ⚡ Fun fact: it has been estimated that 20 million Japanese can play shogi, of which perhaps 1 million are active players
-- 👷 working in: a secret cool organization which doesn't even exit 🥼😕
+- 👷 working in: a secret cool organization which doesn't even exist 🥼😕
 <!--
 **aeirya/aeirya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
