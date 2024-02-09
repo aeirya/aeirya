@@ -21,7 +21,7 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" alt="tex" width="30" height="30" title="latex"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg" alt="julia" width="30" height="30"/></a>
 
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="30" height="30"/></a>
+<a href="https://pytorch.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="30" height="30" title="pytorch"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="30" height="30"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="30" height="30"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" alt="ssh" width="30" height="30" title="ssh"/></a>
