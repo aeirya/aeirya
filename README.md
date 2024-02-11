@@ -1,10 +1,10 @@
 ### Hello there 👋(^v^)
 
-- 🔭 I’m currently working on: Genetic Programming, Systems Biology, [Algorithmic] Game Theory
-- 🌱 I’m currently learning: Julia, Japanese, NLP/AI, PL/Compilers/Interpreters
-- 💬 Ask me about human and computer langauges, and we'll talk for hours
+- 🔭 I’m currently working on: Computational Linguistics (Relation Extraction)
+- 🌱 I’m currently learning: Seq2Seq Modeling, Arabic, Yoga, Harmonica, Psychology and Biology of Brain
+- 💬 Ask me about human and computer languages, and we'll talk for hours
 - 📫 How to reach me: aeirya@gmail.com
-- 👯 I’m looking to collaborate on semi-online buffered videotelephony
+- 👯 I’m looking to collaborate on using LLMs for very low-resource languages like Gilaki
  
 ### Selected Tools and Programming Languages
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30" height="30"/></a>
