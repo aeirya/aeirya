@@ -1,27 +1,30 @@
 ### Hello there 👋(^v^)
 
-- 🔭 I’m currently working on: Computational Linguistics (Relation Extraction)
-- 🌱 I’m currently learning: Seq2Seq Modeling, Arabic, Yoga, Harmonica, Psychology and Biology of Brain
+- 🔭 I’m currently working on: Computational Linguistics (Small LLM Agents), DevOps, and Software Development in PHP
+- 🌱 I’m currently learning: openai-agents library, Spanish, a bit of Basque, yoga, singing, psychology
 - 💬 Ask me about human and computer languages, and we'll talk for hours
 - 📫 How to reach me: aeirya@gmail.com
-- 👯 I’m looking to collaborate on using LLMs for very low-resource languages like Gilaki
+- 👯 I’m looking to collaborate on using LLMs and developing tools for very low-resource languages like Gilaki
  
 ### Selected Tools and Programming Languages
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="30" height="30"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="cpp" width="30" height="30"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="cpp" width="30" height="30"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30" height="30"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" alt="scala" width="30" height="30" title="scala"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="30" height="30"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="30" height="30"/></a> 
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="cpp" width="30" height="30"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity3d" width="30" height="30"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" alt="tex" width="30" height="30" title="latex"/></a>
+</a>
+
+<a href="https://pytorch.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="30" height="30" title="pytorch"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" alt="scala" width="30" height="30" title="scala"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="30" height="30" title="matplotlib"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="30" height="30"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity3d" width="30" height="30"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" alt="tex" width="30" height="30" title="latex"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg" alt="julia" width="30" height="30"/></a>
-
-<a href="https://pytorch.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="30" height="30" title="pytorch"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="cpp" width="30" height="30"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg" alt="julia" width="30" height="30"/>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="30" height="30"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="30" height="30"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" alt="ssh" width="30" height="30" title="ssh"/></a>
