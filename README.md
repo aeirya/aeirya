@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: Computational Linguistics (Small LLM Agents), DevOps, and Software Development in PHP
 - 🌱 I’m currently learning: openai-agents library, Spanish, a bit of Basque, yoga, singing, psychology
 - 💬 Ask me about human and computer languages, and we'll talk for hours
-- 📫 How to reach me: aeirya@gmail.com
+- 📫 How to reach me: aeiryam@gmail.com
 - 👯 I’m looking to collaborate on using LLMs and developing tools for very low-resource languages like Gilaki
  
 ### Selected Tools and Programming Languages
